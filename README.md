@@ -41,10 +41,6 @@ Each part is described in detail on my corresponding [CSDN blog](https://blog.cs
 
 
 
-
-<center>GAN and CGAN</center>
-
-
 ## How to contact me
 If you encounter any problems in this tutorial notebook, you can contact me, my common QQ mailbox: 876270200@qq.com and my Google mailbox cybergodhao@gmail.com, you can also privately mail me on my CSDN blog or Raise issues on [github](https://github.com/GuoQuanhao/PaddlePaddle-basic-tutorial)
 
